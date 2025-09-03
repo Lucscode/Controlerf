@@ -2,52 +2,52 @@
 
 Um aplicativo moderno e intuitivo para controle financeiro pessoal, desenvolvido com React, TypeScript e Tailwind CSS.
 
-## 🚀 Funcionalidades Principais
+##  Funcionalidades Principais
 
-### 📊 Dashboard Intuitivo
+###  Dashboard Intuitivo
 - **Visão geral clara**: Saldo atual, entradas e saídas do mês
 - **Gráficos interativos**: Pizza para categorias, barras para evolução temporal
 - **Indicadores de orçamento**: Progresso visual com alertas de limite
 - **Transações recentes**: Lista das últimas movimentações
 
-### 💰 Cadastro Rápido de Transações
+###  Cadastro Rápido de Transações
 - **Botão "+" destacado**: Acesso rápido para adicionar receitas/despesas
 - **Campos simples**: Valor, categoria, forma de pagamento e data
 - **Sugestões inteligentes**: Baseadas em transações anteriores
 - **Validação automática**: Campos obrigatórios e formatos corretos
 
-### 🏷️ Categorias Personalizáveis
+###  Categorias Personalizáveis
 - **Categorias padrão**: Alimentação, transporte, lazer, saúde, educação, moradia
 - **Criação personalizada**: Adicione suas próprias categorias
 - **Cores e ícones**: Identificação visual única para cada categoria
 - **Organização por tipo**: Receitas e despesas separadas
 
-### 📈 Orçamentos e Metas
+###  Orçamentos e Metas
 - **Limites mensais**: Defina orçamentos por categoria
 - **Indicadores de progresso**: Barras visuais com status (dentro/aviso/excedido)
 - **Alertas inteligentes**: Notificações quando próximo do limite
 - **Períodos flexíveis**: Mensal ou anual
 
-### 📋 Gestão de Transações
+###  Gestão de Transações
 - **Lista completa**: Todas as transações com filtros avançados
 - **Busca inteligente**: Por categoria, descrição ou data
 - **Filtros múltiplos**: Tipo, categoria, período
 - **Edição e exclusão**: Modifique ou remova transações
 
-### 📊 Relatórios Detalhados
+###  Relatórios Detalhados
 - **Múltiplos períodos**: 1 mês, 3 meses, 6 meses, 1 ano
 - **Gráficos variados**: Barras, pizza e linha
 - **Análise temporal**: Evolução de receitas e despesas
 - **Exportação**: Backup dos dados em JSON
 
-### ⚙️ Configurações Avançadas
+###  Configurações Avançadas
 - **Perfil do usuário**: Informações pessoais e preferências
 - **Moedas e idiomas**: Suporte a múltiplas localizações
 - **Temas**: Claro, escuro ou automático
 - **Backup automático**: Exportação e importação de dados
 - **Segurança**: Alteração de senha e 2FA
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Frontend**: React 18 + TypeScript
 - **Build Tool**: Vite
@@ -58,7 +58,7 @@ Um aplicativo moderno e intuitivo para controle financeiro pessoal, desenvolvido
 - **Routing**: React Router DOM
 - **State Management**: React Context + useReducer
 
-## 📦 Instalação
+##  Instalação
 
 ### Pré-requisitos
 - Node.js 16+ 
@@ -91,14 +91,14 @@ yarn dev
 http://localhost:3000
 ```
 
-## 🚀 Scripts Disponíveis
+##  Scripts Disponíveis
 
 - `npm run dev` - Inicia o servidor de desenvolvimento
 - `npm run build` - Cria a versão de produção
 - `npm run preview` - Visualiza a versão de produção
 - `npm run lint` - Executa o linter
 
-## 📱 Como Usar
+##  Como Usar
 
 ### 1. Primeiro Acesso
 - O aplicativo já vem com categorias padrão configuradas
@@ -129,7 +129,7 @@ http://localhost:3000
 - Visualize gráficos de barras, pizza e linha
 - Exporte dados para backup
 
-## 🎨 Design e UX
+##  Design e UX
 
 ### Interface Minimalista
 - **Cores intuitivas**: Verde para receitas, vermelho para despesas
@@ -143,7 +143,7 @@ http://localhost:3000
 - **Formulários intuitivos**: Validação e feedback visual
 - **Modais elegantes**: Interações sem perder contexto
 
-## 🔧 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 src/
@@ -166,7 +166,7 @@ src/
 └── index.css           # Estilos globais
 ```
 
-## 🌟 Funcionalidades Futuras
+##  Funcionalidades Futuras
 
 ### Modo Avançado
 - **Relatórios detalhados**: Análises mais profundas
@@ -183,7 +183,7 @@ src/
 - **Supabase**: Banco de dados em nuvem
 - **Múltiplos dispositivos**: Sincronização entre plataformas
 
-## 🤝 Contribuindo
+##  Contribuindo
 
 1. Fork o projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
@@ -191,17 +191,17 @@ src/
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 📞 Suporte
+##  Suporte
 
 - **Issues**: Reporte bugs ou solicite features no GitHub
 - **Documentação**: Consulte este README e os comentários no código
 - **Comunidade**: Participe das discussões e contribuições
 
-## 🎯 Roadmap
+##  Roadmap
 
 ### Versão 1.1
 - [ ] Edição de transações
@@ -220,5 +220,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-**Controlerf** - Transformando o controle financeiro em uma experiência simples e eficiente! 💰✨
+**Controlerf** - Transformando o controle financeiro em uma experiência simples e eficiente!
 
